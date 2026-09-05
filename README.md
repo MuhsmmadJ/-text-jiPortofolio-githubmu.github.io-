@@ -26,11 +26,6 @@ A point-of-sale cashier application equipped with stock inventory management and
 📱 **[Try Interactive Prototype](https://www.figma.com/proto/aF4i7OeoPHTSgD41JDwQl1/Untitled?node-id=100-2&starting-point-node-id=100%3A2&t=6eoqhkxmFbtuXYbs-1)**
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhsmmadJ&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhsmmadJ&layout=compact&theme=radial)
-
----
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Muhammad Jui](https://www.linkedin.com/in/muhammad-jui-0329a8191)
