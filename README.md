@@ -13,10 +13,13 @@ A **Web Developer** & **Information Systems Student** focused on building web ap
 
 ### 🚀 Featured Projects
 
-#### 💰 Tabunganku - Android Finance & Savings App --- #### 🛒 Cashier POS System
+#### 💰 Tabunganku - Android Finance & Savings App 
 An Android-based personal finance and savings tracker application built with **Java**, **XML Layouts**, and **SQLite**. Features local authentication (`SharedPreferences`), full CRUD functionality for transaction records, and receipt photo attachments from the device gallery.
 
-📱 **[Download & Demo APK]([LINK_GOOGLE_DRIVE_KAMU](https://drive.google.com/drive/folders/1TuOTG0E4JZDOlBDOpxbn8tc6ub483-iM?usp=drive_link)**  
+#### 🛒 Cashier POS System
+A point-of-sale cashier application equipped with stock inventory management and stock count (*stock opname*) features.
+
+📱 **[Download & Demo APK]([KLIK For Demo](https://drive.google.com/drive/folders/1TuOTG0E4JZDOlBDOpxbn8tc6ub483-iM?usp=drive_link)**  
 > *Note: If installing the APK on your phone, you may need to temporarily allow installation from "Unknown Sources" or turn off "Auto Blocker" in your device security settings.*
 
 ### 🎨 UI/UX Designs (Figma) Project
