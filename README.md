@@ -1,0 +1,35 @@
+# Hi, I'm Muhammad Jui 👋
+
+A **Web Developer** & **Information Systems Student** focused on building web applications and mobile system solutions.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3, JavaScript, PHP, Java
+- **Database & API:** MySQL, SQLite, REST API
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Figma
+
+---
+
+### 🚀 Featured Projects
+
+#### 💰 Tabunganku - Android Finance & Savings App --- #### 🛒 Cashier POS System
+An Android-based personal finance and savings tracker application built with **Java**, **XML Layouts**, and **SQLite**. Features local authentication (`SharedPreferences`), full CRUD functionality for transaction records, and receipt photo attachments from the device gallery.
+
+📱 **[Download & Demo APK]([LINK_GOOGLE_DRIVE_KAMU](https://drive.google.com/drive/folders/1TuOTG0E4JZDOlBDOpxbn8tc6ub483-iM?usp=drive_link)**  
+> *Note: If installing the APK on your phone, you may need to temporarily allow installation from "Unknown Sources" or turn off "Auto Blocker" in your device security settings.*
+
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhsmmadJ&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhsmmadJ&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Muhammad Jui](https://www.linkedin.com/in/muhammad-jui-0329a8191)
+- **Email:** [jiramadan14@gmail.com](mailto:jiramadan14@gmail.com)
+- **Instagram:** [@ji_ihramadan](https://instagram.com/ji_ihramadan)
+- **TikTok:** [@ihramadan](https://tiktok.com/@ihramadan)
