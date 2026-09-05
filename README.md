@@ -5,9 +5,12 @@ A **Web Developer** & **Information Systems Student** focused on building web ap
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3, JavaScript, PHP, Java
-- **Database & API:** MySQL, SQLite, REST API
-- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio, Figma
+
+- **Programming & Web:** HTML5, CSS3, JavaScript, PHP, Java, Python, REST API
+- **Databases:** MySQL, SQLite
+- **Design & Prototyping:** Figma, CorelDRAW, Canva, PicsArt, Phonto
+- **Video & Photo Editing:** Adobe Premiere, After Effects, CapCut, VN Video, Lightroom, Snapseed, Photoshop, VSCO
+- **Developer Tools:** Git, GitHub, VS Code, Android Studio
 
 ---
 
