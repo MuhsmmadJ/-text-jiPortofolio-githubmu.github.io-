@@ -19,7 +19,8 @@ An Android-based personal finance and savings tracker application built with **J
 📱 **[Download & Demo APK]([LINK_GOOGLE_DRIVE_KAMU](https://drive.google.com/drive/folders/1TuOTG0E4JZDOlBDOpxbn8tc6ub483-iM?usp=drive_link)**  
 > *Note: If installing the APK on your phone, you may need to temporarily allow installation from "Unknown Sources" or turn off "Auto Blocker" in your device security settings.*
 
-
+### 🎨 UI/UX Designs (Figma) Project
+📱 **[Try Interactive Prototype](https://www.figma.com/proto/aF4i7OeoPHTSgD41JDwQl1/Untitled?node-id=100-2&starting-point-node-id=100%3A2&t=6eoqhkxmFbtuXYbs-1)**
 ---
 
 ### 📊 GitHub Stats
